@@ -1,0 +1,6 @@
+[package]
+name = "kolakoski"
+version = "0.1.0"
+authors = ["Jack Robison <jackrobison@lbry.io>"]
+
+[dependencies]
