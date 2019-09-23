@@ -1,5 +1,4 @@
-# kolakoski
-Generate the kolakoski sequence with a fixed size buffer.
+# Kolakoski sequence generation with a fixed size buffer
 
 To build, `cargo build --release`
 
